@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+I'm Cayetano, born in Seville 💃💃🏻, and currently living in Madrid 🏙🏦, working as a data scientist 👨‍🔬💻.
 <!--
 **sorul/sorul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
