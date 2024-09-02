@@ -1,4 +1,4 @@
-<h2 align="left">Hi there 👋<br>I'm Cayetano, born in Seville 💃💃🏻, and currently living in Madrid 🏙🏦, working as a data scientist 👨‍🔬💻.</h2>
+<h2 align="left">Hi there 👋<br>I'm Cayetano, currently living in Madrid, working as a data scientist 👨‍🔬💻.</h2>
 
 ###
 
